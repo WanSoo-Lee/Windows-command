@@ -1,0 +1,20 @@
+laccess.cpl : 내계 필요한 옵션
+appwiz.cpl : 프로그램 추가/제거
+bthprops.cpl : 블루투스장치 설정
+desk.cpl : 디스플레이 증록정보
+firewall.cpl : 방화벽
+hdwwiz.cpl : 새 하드웨어 추가 마법사\
+inetcpl.cpl : 인터넷 등록정보
+intl.cpl : 국가 및 언어 옵션
+irprops.cpl : 적외선 포트 설정
+joy.cpl : 게임컨트롤러
+main.cpl : 마우스 등록정보
+mmsys.cpl : 사운드 및 오디오 장치 등록정보
+ncpa.cpl : 네트워크 연결
+sysdm.cpl : tltmxpa thrtjd
+timedate.cpl
+wscui.cpl : 보안 관리 센터
+wuaucpl.cpl : 자동 업데이트
+control admintools : 관리도구
+control folders : 폴더 옵션
+control Userpasswords : 사용자 계정
